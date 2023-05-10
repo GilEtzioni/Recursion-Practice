@@ -1,4 +1,4 @@
-public class recTestA {
+public class recursion2015aTEST {
     public static void main(String[] args) {
         int[][] mat1 = {
             {3, 13, 15, 28, 30},
